@@ -21,6 +21,7 @@
 ![Cardholder 25](https://github.com/user-attachments/assets/a43326f2-a0fa-41e7-858f-e866579bd523)
 
 4. Fraud Detection?: Come to a conclusion to identify if there are potential fraudulant or suspicious activity based on findings.
+![boxplots](https://github.com/user-attachments/assets/3991326f-2904-45bb-8aa0-e3129b430949)
 
 
 ## Potential Results/ Additions
