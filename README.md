@@ -13,8 +13,9 @@
 ## Approach
 
 1. Query Transactional Data: I will be using SQL to extract transaction history for both cardholders that have potential fraud issues
+![Cardholders](https://github.com/user-attachments/assets/4f9c94cd-5c21-4ed9-9220-8ef063d25ab4)
 
 2. Time Series Analysis: Perform time series analysis on spending behavior over time
-![Cardholders](https://github.com/user-attachments/assets/f36f20e6-8ad6-4bc9-867c-7bf5f52152cb)
+
 
 3.
